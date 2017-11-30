@@ -1,0 +1,1 @@
+Este es un proyecto de Arboles en Java FX en el cual se ejecutan muchas y distintas acciones como recorrerlo en modo preOrden, postOrden o inOrden, también podemos contar los nodos, mostrar cual es el nodo Mayor y cual es el Menor y todo esto para probar la funcionalidad de estos método en modo recursivo.
